@@ -132,7 +132,7 @@ sudo ./server-stats.sh
 ```
 
 ## Author
-**Shegxy**
+**Shegxy69**
 - GitHub: [@shegxy](https://github.com/shegxy)
 
 ## 📝 License
