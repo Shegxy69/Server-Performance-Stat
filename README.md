@@ -6,7 +6,7 @@ A bash script to analyze and monitor Linux server performance statistics.
 ## 🔗 Project Links
 
 **GitHub Repository:** https://github.com/Shegxy69/Server-Performance-Stat
-
+**Project Page:** https://shegxy69.github.io/Server-Performance-Stat/
 ---
 
 ##  Description
