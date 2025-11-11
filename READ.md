@@ -134,12 +134,13 @@ sudo ./server-stats.sh
 ## Author
 **Shegxy69**
 - GitHub: [@shegxy](https://github.com/shegxy)
+- GitHub Repository:** https://github.com/Shegxy69/Server-Performance-Stat
 
-## 📝 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Project inspired by DevOps learning path
 - Thanks to the Linux community for excellent documentation
