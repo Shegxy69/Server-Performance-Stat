@@ -3,7 +3,7 @@
 ###############################################
 # Script: server-stats.sh
 # Description: Analyze basic server performance
-# Author: Your Name
+# Author: Oluwasegun Shobajo
 # Date: 2024-11-11
 ###############################################
 
