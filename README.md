@@ -137,8 +137,10 @@ sudo ./server-stats.sh
 ```
 ## Author: Oluwasegun Shobajo 
   GitHub: [@Shegxy69](https://github.com/Shegxy69)
-  https://github.com/Shegxy69/Server-Performance-Stat
 
+## 🔗 Project URL
+**Live Repository:** https://github.com/Shegxy69/Server-Performance-Stat
+  
 ##  License
 
 This project is open source and available under the MIT License.
